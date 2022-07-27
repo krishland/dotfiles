@@ -50,7 +50,7 @@
 [pull]
   rebase = false
 [user]
-	email = levaseurguillaume91@gmail.com
+	email = levasseurguillaume91@gmail.com
 	name = guillaume levasseur
 [credential "https://github.com"]
 	helper = 
